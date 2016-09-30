@@ -1,2 +1,2 @@
-# qt-unicue
+# unicue-qt
 Unicue project on QT platform.
